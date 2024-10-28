@@ -1,0 +1,1 @@
+Tired of changing session on the GTU portal for downloading previous year question papers, I have created JustClic!. This app generates all the avaialable paper links of particular subject, through which you can download them. 
